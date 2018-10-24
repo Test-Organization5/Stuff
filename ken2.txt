@@ -1,3 +1,2 @@
 This is a new file
-Another inserted line by ken.
-Ken.
+
